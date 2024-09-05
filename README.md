@@ -21,8 +21,9 @@ API Development
    - Focuses on designing and maintaining databases that store and retrieve data efficiently.
    - Involves working with SQL databases (like MySQL, PostgreSQL) or NoSQL databases (like MongoDB, Firebase).
 
-![image alt](
-
+![image alt](https://github.com/flaviano255/Front-end.-And-back-end-roadmap/blob/f31e8f0ee98ecb2a49ddd0d02b48a71a3780987a/1.png)
+<p>
+These categories highlight critical aspects of front-end and back-end development roles in building robust web applications.
 
 
 
